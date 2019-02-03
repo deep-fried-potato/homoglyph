@@ -1,2 +1,2 @@
 # homoglyph
-python script for lazy-asses to escape plagarism checks
+python script for lazy-asses to escape plagiarism checks
