@@ -1,0 +1,7 @@
+Database Management System or DBMS in short refers to the technology of storing and retrieving users' data with utmost efficiency along with appropriate security measures. This tutorial explains the basics of DBMS such as its architecture, data models, data schemas, data independence, E-R model, relation model, relational database design, and storage and file structure and much more.
+
+Audience
+This tutorial will especially help computer science graduates in understanding the basic-to-advanced concepts related to Database Management Systems.
+
+Prerequisites
+Before you start proceeding with this tutorial, it is recommended that you have a good understanding of basic computer concepts such as primary memory, secondary memory, and data structures and algorithms.
